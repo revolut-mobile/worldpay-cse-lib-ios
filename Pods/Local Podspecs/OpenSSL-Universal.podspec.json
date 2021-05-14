@@ -3,9 +3,9 @@
   "version": "1.1.1100",
   "summary": "Revolut - OpenSSL-Universal",
   "description": "Revolut - OpenSSL-Universal",
-  "homepage": "https://bitbucket.org/revolut/revolut-ios",
+  "homepage": "https://www.revolut.com",
   "source": {
-    "git": "https://bitbucket.org/revolut/revolut-ios"
+    "git": "https://www.revolut.com"
   },
   "license": {
     "type": "Proprietary"
